@@ -1,7 +1,7 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~58~ubuntu16.04.1)
 
   (general
-    (links 0)
+    (links 56)
     (no_connects 0)
     (area 77.097479 10.629239 256.622281 146.050001)
     (thickness 1.6)
@@ -18,12 +18,12 @@
   )
 
   (layers
-    (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (31 B.Cu signal)
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user)
-    (37 F.SilkS user hide)
+    (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
     (44 Edge.Cuts user)
@@ -69,7 +69,7 @@
     (aux_axis_origin 196.5452 123.5456)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x010f0_ffffffff)
+      (layerselection 0x010f0_80000001)
       (usegerberextensions true)
       (usegerberattributes true)
       (excludeedgelayer true)
@@ -93,7 +93,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory /home/greynaga/git/oshwi_2017/Oshpark_Version/gerbers/))
+      (outputdirectory /home/greynaga/git/Granabot/Hardware/PCBWay/gerbers/))
   )
 
   (net 0 "")
