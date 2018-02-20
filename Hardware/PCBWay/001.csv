@@ -9,7 +9,7 @@ Reference, Value, Footprint, Datasheet, Description, MF_Name, MF_PN, S1_Name, S1
 "R1","1k","Resistors_SMD:R_1206_HandSoldering",""
 "D2","ON","LEDs:LED_1206_HandSoldering",""
 "D1","MBRA140","OSHwi:D_SOD-123","http://www.vishay.com/docs/94301/vs-mbra140trpbf.pdf","DIODE SCHOTTKY 40V 1A MBRA140 SMA","Vishay","VS-MBRA140TRPBF","Digikey","VS-MBRA140TRPBFCT-ND"
-"C2","0.1uF","Capacitors_SMD:C_1206_HandSoldering",""
+"C2","4.7uF","Capacitors_SMD:C_1206_HandSoldering",""
 "C3","22nF","Capacitors_SMD:C_1206_HandSoldering",""
 "LED6","WS2812B","OSHwi:WS2812B","http://www.adafruit.com/datasheets/WS2812B.pdf","LED RGB WS2812B W/DVR 4SMD","Adafruit","1655","Digikey","1528-1104-ND"
 "U2","ATTINY85-20SU","Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm",""
